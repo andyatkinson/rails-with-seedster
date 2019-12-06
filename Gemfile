@@ -8,7 +8,7 @@ end
 
 gem 'rails', '~> 6'
 gem 'pg'
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 3.12'
 gem 'seedster'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.5'
